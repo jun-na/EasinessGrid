@@ -1,0 +1,2 @@
+# EasinessGrid
+MAUIのGridのように簡略的にColumnDefinitions、RowDefinitionsを設定できるGrid
