@@ -3,7 +3,6 @@ using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace xxx.CustomControls;
 public class EGrid : Grid
 {
     private static readonly DependencyProperty ColumnsProperty =
